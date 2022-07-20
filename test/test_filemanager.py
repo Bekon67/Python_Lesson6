@@ -1,6 +1,6 @@
 # тест файлового менеджера
 # sys.path.append('D:/Neural_university/Python/Python_Lesson5/victory')
-from .victory.functions_victory import get_date, month_convert
+from victory.functions_victory import get_date, month_convert
 
 
 def test_get_date():
